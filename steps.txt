@@ -3,7 +3,7 @@ Or just move a window to your iPad, as described in next section.
 Or connect using the menu in Sidecar preferences.
 Switch to screen mirroring
 By default, your iPad shows an extension of your Mac desktop. You can move windows to it and use it like any other display.
-To mirror your Mac display so that both screens show the same content, return to the Display menu or AirPlay menu, which shows a blue iPad icon   while using Sidecar. Choose the option to mirror your display.
+To mirror your Mac display on ipad so that both screens show the same content, return to the Display menu or AirPlay menu, which shows a blue iPad icon   while using Sidecar. Choose the option to mirror your display.
 End the Sidecar session
 If you're using macOS Big Sur, return to the Display menu in Control Center or the menu bar and choose your iPad again to disconnect from it.
 If you're using macOS Catalina, return to the AirPlay menu and choose the option to disconnect.
